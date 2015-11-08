@@ -1,3 +1,14 @@
+Create your own currency!
+=========================
+
+1 
+Replace across the entire project bigchange, BigChange, BIGCHANGE
+
+2 
+$ date +%s
+1447014783
+and set that number into 
+
 BigChange (BIC) - a 'faster' version of Litecoin which also uses scrypt
 as a proof of work scheme and is intended for microtransactions.
  - 15 seconds block targets: beat that MinCoin! ;)
